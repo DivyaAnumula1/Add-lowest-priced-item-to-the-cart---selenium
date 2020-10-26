@@ -1,0 +1,3 @@
+chrome:
+  driver:
+    path: "C:\\Users\\divyaanumula\\Downloads\\chromedriver_win32\\chromedriver.exe"
